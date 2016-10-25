@@ -1,3 +1,0 @@
-# This file is used to check the version in Sandbox.
-0.0: There is a new version of Sandbox. Get it at BukkitDev.
-0.1: You are completley up to date.
